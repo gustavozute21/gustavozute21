@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, bem-vindo ao meu GitHub!  
 
-<!--
-**gustavozute21/gustavozute21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciências da Computação**, apaixonado por tecnologia e sempre em busca de novos aprendizados.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Atualmente cursando **Ciências da Computação**  
+- 🐍 Experiência em **Lógica de Programação com Python**  
+- 🌐 Conhecimentos em **HTML** e **CSS**  
+- 💡 Interesse em desenvolvimento web e resolução de problemas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Objetivos
+- Aprimorar minhas habilidades em programação  
+- Contribuir para projetos open source  
+- Evoluir como desenvolvedor full stack no futuro  
+
+## 📫 Contato
+- 🔗 [https://www.linkedin.com/in/gustavo-zunto-76bb76362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
+- ✉️ Email: gustavozute1@gmail.com
+
+---
+⭐ Se curtiu, acompanhe meus projetos por aqui!
